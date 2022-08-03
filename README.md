@@ -20,9 +20,11 @@
 
 <details>
 <summary>Stats</summary>
-[![70776045_p0](http://cdnimg.violetwsh.com/img/70776045_p0.jpg)](https://github.com/solywsh)
+  
+[![](http://cdnimg.violetwsh.com/img/70776045_p0.jpg)](https://github.com/solywsh)
 
 
 [![](https://count.getloli.com/get/@solywsh?theme=moebooru)](https://github.com/solywsh)
+
 </details>
 
