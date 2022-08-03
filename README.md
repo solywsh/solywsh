@@ -2,6 +2,7 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Hi! I'm solywsh.
 
+<img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
 
 <a href="https://github.com/solywsh">
   <table>
@@ -20,11 +21,14 @@
 
 <details>
 <summary>Stats</summary>
-  
+
 [![](http://cdnimg.violetwsh.com/img/70776045_p0.jpg)](https://github.com/solywsh)
 
 
+
 [![](https://count.getloli.com/get/@solywsh?theme=moebooru)](https://github.com/solywsh)
+
+
 
 </details>
 
